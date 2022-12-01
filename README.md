@@ -1,16 +1,25 @@
-# dark-flame-master README
+# Dark Flame Master (Darker Theme)
 
-## Working with Markdown
+This is a simple but very dark theme, aimed at those who love the dark and want everything darker and darker.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+If you want to install it: [Dark Flame Master (Darker Theme)](url).
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+# Dark Flame Master for [Visual Studio Code](http://code.visualstudio.com)
 
-## For more information
+This is a demonstration of how the theme manages to make everything dark, but with a nice and cool style
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+![Screenshot](url)
 
-**Enjoy!**
+## Install
+
+Press "`CTRL + P`" on your keyboard<br />
+Copy and paste `ext install ****`<br />
+Press the "`Enter`" key.<br />
+
+## Team
+
+This theme is maintained by:
+
+[![Otávio Miranda](https://avatars.githubusercontent.com/u/86261817?v=4&s=150)](https://github.com/the-riquelme) |
+:---: |
+[Riquelme Damião Silva](https://github.com/the-riquelme) |
