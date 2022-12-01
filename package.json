@@ -30,7 +30,7 @@
       {
         "label": "Dark Flame Master",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dark Flame Master-color-theme.json"
+        "path": "./themes/dark-flame-master-color-theme.json"
       }
     ]
   }

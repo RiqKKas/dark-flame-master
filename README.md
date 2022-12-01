@@ -20,6 +20,15 @@ Press the "`Enter`" key.<br />
 
 This theme is maintained by:
 
-[![Otávio Miranda](https://avatars.githubusercontent.com/u/86261817?v=4&s=150)](https://github.com/the-riquelme) |
-:---: |
-[Riquelme Damião Silva](https://github.com/the-riquelme) |
+<h2 id="author">👨‍💻&nbsp; Autor</h2>
+
+👤 [Riquelme Damião Silva](https://github.com/the-riquelme)
+
+<div style="display: inline_block">
+  <a href="https://www.linkedin.com/in/riquelme-damiao-silva/" target="_blank">
+   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:riquelmedamiaosilva@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
