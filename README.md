@@ -8,7 +8,7 @@ If you want to install it: [Dark Flame Master (Darker Theme)](https://marketplac
 
 This is a demonstration of how the theme manages to make everything dark, but with a nice and cool style
 
-<img src="./img/Screenshot from 2022-12-01 21-15-58.png" target="_blank">
+<img src="./img/Screenshot from 2022-12-02 18-43-22.png" target="_blank">
 
 ## 🚀&nbsp; Install
 
