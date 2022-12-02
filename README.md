@@ -1,14 +1,21 @@
-# 💡&nbsp; Dark Flame Master (Darker Theme)
 
-This is a simple but very dark theme, aimed at those who love the dark and want everything darker and darker.
+<h1 align="center">
+  <br>
+  <img src="https://github.com/the-riquelme/dark-flame-master/blob/main/img/icon.png" alt="Dark Flame Master Logo" width="100">
+  <br>
+  Dark Flame Master <a href="https://code.visualstudio.com/">Visual Studio Code</a>
+  <br>
+</h1>
 
-If you want to install it: [Dark Flame Master (Darker Theme)](https://marketplace.visualstudio.com/items?itemName=the-riquelme.dark-flame-master&ssr=false#review-details).
+<p align="center">
+  <strong>This is a simple but very dark theme, aimed at those who love the dark and want everything darker and darker.</strong>
+</p>
 
-## :camera_flash:&nbsp; Dark Flame Master for [Visual Studio Code](http://code.visualstudio.com)
+<p align="center">
+  <strong>If you want to install it: <a href="https://marketplace.visualstudio.com/items?itemName=the-riquelme.dark-flame-master&ssr=false#review-details">Dark Flame Master (Darker Theme)</a></strong>
+</p>
 
-This is a demonstration of how the theme manages to make everything dark, but with a nice and cool style
-
-<img src="./img/Screenshot from 2022-12-02 18-43-22.png" target="_blank">
+<img src="https://github.com/the-riquelme/dark-flame-master/blob/main/img/Screenshot%20from%202022-12-02%2018-43-22.png" target="_blank">
 
 ## 🚀&nbsp; Install
 
@@ -16,15 +23,6 @@ Press "`CTRL + P`" on your keyboard<br />
 Copy and paste `ext install the-riquelme.dark-flame-master`<br />
 Press the "`Enter`" key.<br />
 
-<h2 id="author">👨‍💻&nbsp; Autor</h2>
+## 👨‍💻&nbsp; Author
 
 👤 [Riquelme Damião Silva](https://github.com/the-riquelme)
-
-<div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/riquelme-damiao-silva/" target="_blank">
-   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:riquelmedamiaosilva@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
