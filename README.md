@@ -2,23 +2,19 @@
 
 This is a simple but very dark theme, aimed at those who love the dark and want everything darker and darker.
 
-If you want to install it: [Dark Flame Master (Darker Theme)](url).
+If you want to install it: [Dark Flame Master (Darker Theme)](https://marketplace.visualstudio.com/items?itemName=the-riquelme.dark-flame-master&ssr=false#review-details).
 
 # Dark Flame Master for [Visual Studio Code](http://code.visualstudio.com)
 
 This is a demonstration of how the theme manages to make everything dark, but with a nice and cool style
 
-![Screenshot](url)
+<img src="./img/Screenshot from 2022-12-01 21-15-58.png" target="_blank">
 
 ## Install
 
 Press "`CTRL + P`" on your keyboard<br />
-Copy and paste `ext install ****`<br />
+Copy and paste `ext install the-riquelme.dark-flame-master`<br />
 Press the "`Enter`" key.<br />
-
-## Team
-
-This theme is maintained by:
 
 <h2 id="author">👨‍💻&nbsp; Autor</h2>
 
