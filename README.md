@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/the-riquelme/dark-flame-master/blob/main/img/icon.png" alt="Dark Flame Master Logo" width="100">
+  <img src="./img/icon.png" alt="Dark Flame Master Logo" width="100">
   <br>
   Dark Flame Master <a href="https://code.visualstudio.com/">Visual Studio Code</a>
   <br>
@@ -15,7 +15,7 @@
   <strong>If you want to install it: <a href="https://marketplace.visualstudio.com/items?itemName=the-riquelme.dark-flame-master&ssr=false#review-details">Dark Flame Master (Darker Theme)</a></strong>
 </p>
 
-<img src="https://github.com/the-riquelme/dark-flame-master/blob/main/img/Screenshot%20from%202022-12-02%2018-43-22.png" target="_blank">
+<img src="./img/Screenshot from 2022-12-02 18-43-22.png" target="_blank">
 
 ## 🚀&nbsp; Install
 
